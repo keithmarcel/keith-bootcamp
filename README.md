@@ -1,2 +1,2 @@
 # keith-bootcamp
-Web development bootcamp files
+Repository for web development bootcamp
